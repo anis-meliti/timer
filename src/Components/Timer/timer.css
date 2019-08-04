@@ -1,0 +1,29 @@
+.timer {
+    width: 270px;
+    height: 75px;
+    border: 1px solid #74747474;
+    white-space: pre-wrap;
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: center;
+}
+
+.hh,
+.mm,
+.ss {
+
+    margin: 0%;
+    padding: 0%;
+}
+
+.sep {
+    margin: 0 2px;
+    padding: 0 2px;
+    max-width: 25px;
+}
+
+.label {
+    font-size: 14px;
+    color: #74747474;
+    font-weight: 500;
+}
